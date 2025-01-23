@@ -4,7 +4,7 @@ Bem-vindo ao meu repositório! Aqui você encontrará projetos e estudos sobre *
 
 ## Sobre Mim
 
-Sou **Engenheiro Mecânico** e atuei principalemnte em áreas de projetos na indústria por mais de 15 anos e também na área educacional. Recentemente, decidi me aprofundar no universo dos dados, utilizando minhas habilidades analíticas e técnicas para resolver problemas práticos através da **análise de dados**, **modelagem estatística** e **visualização de dados**.
+Atuei principalemnte em áreas de projetos na indústria por mais de 15 anos e também na área educacional. Recentemente, decidi me aprofundar no universo dos dados, utilizando minhas habilidades analíticas e técnicas para resolver problemas práticos através da **análise de dados**, **modelagem estatística** e **visualização de dados**.
 
 ### Habilidades e Tecnologias
 
