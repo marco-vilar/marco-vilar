@@ -20,7 +20,7 @@ Neste repositório, você encontrará tanto projetos pessoais quanto contribuiç
 
 ## Entre em Contato
 
-- **LinkedIn**: [linkedin.com/in/seulinkedin](https://www.linkedin.com/in/marcovilar)
+- **LinkedIn**: [linkedin.com/in/marcovilar](https://www.linkedin.com/in/marcovilar)
 - **Email**: [m.amotavilar@gmail.com](mailto:m.amotavilar@gmail.com)
 
 Se você tiver algum feedback, dúvida ou quiser colaborar em algum projeto, fique à vontade para me contatar!
