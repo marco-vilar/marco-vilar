@@ -8,8 +8,8 @@ Atuei principalemnte em áreas de projetos na indústria por mais de 15 anos e t
 
 ### Habilidades e Tecnologias
 
-- **Linguagens**: SQL.
-- **Linguagens em aprendizado**: Python, R.
+- **Linguagens**: SQL, Python.
+- **Linguagens em aprendizado**: R.
 - **Ferramentas de Análise de Dados**: Metabase.
 - **Ferramentas de Visualização**: Power BI.
 - **Outras**: Git e GitHub.
